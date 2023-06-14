@@ -1,0 +1,26 @@
+
+body{
+    background-color: bisque;
+}
+h1{
+    color:darkgreen;
+    text-align: center;
+}
+.qstn{
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+.ans{
+    color: blue;
+}
+.output{
+    color:navy;
+}
+h2{
+   
+    color: brown;
+}
+p{
+    color: darkviolet;
+}
